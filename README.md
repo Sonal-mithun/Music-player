@@ -15,4 +15,4 @@ It allows users to play, pause, and navigate through a playlist.
 - JavaScript
 
 ## Live Link
-[View Music Player](https://yourusername.github.io/Music-player/)
+[View Music Player](https://Sonal-mithun.github.io/Music-player/)
